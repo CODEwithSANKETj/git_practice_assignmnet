@@ -1,5 +1,5 @@
-num = 7
-fac = 0
+let num = 7
+let fac = 0
 for(i=1;i<=num;i++){
 if(num%i==0){
 fac++}}
